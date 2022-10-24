@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Andrew
 
 <!--
 **andrewkarev/andrewkarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I have completed:
+- Frontend / JS course
+
+I’m studying:
+- React at [Rolling Scopes School](https://rs.school/react/)
