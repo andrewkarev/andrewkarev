@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 I have completed:
 - Frontend / JS course
+- React course
 
 I’m studying:
-- React at [Rolling Scopes School](https://rs.school/react/)
+- Node.js at [Rolling Scopes School](https://rs.school/nodejs/)
