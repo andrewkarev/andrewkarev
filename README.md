@@ -14,9 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I have completed:
-- Frontend / JS course
-- React course
-
-I’m studying:
-- Node.js at [Rolling Scopes School](https://rs.school/nodejs/)
